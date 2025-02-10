@@ -60,3 +60,5 @@ Finally, log in with one of the 10,000 users with a randomly generated names and
 <br />
 
 <h1>Stay Tuned for On-premises Active Directory within Azure VMs Part 4</h1>
+
+- [Configuring On-premises Active Directory within Azure VMs Part 4](https://github.com/BenjaminG-Dreams/configure-ad4)
